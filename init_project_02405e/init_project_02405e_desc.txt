@@ -1,0 +1,1 @@
+This is a description file for directory init_project_02405e. It contains project-specific details.
